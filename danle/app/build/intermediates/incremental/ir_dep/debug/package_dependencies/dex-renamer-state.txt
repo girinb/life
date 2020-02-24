@@ -1,0 +1,4 @@
+#Wed Nov 06 20:51:36 KST 2019
+base.0=C\:\\Users\\sisio\\Desktop\\works\\danle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
